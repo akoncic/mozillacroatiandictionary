@@ -4,11 +4,11 @@
     <em:id>hr-HR-2@dictionaries.addons.mozilla.org</em:id>
     <em:version>1.4</em:version>
     <em:type>64</em:type>
-    <em:name>Croatian Dictionary (Hrvatski Rjecnik)</em:name>
+    <em:name>Croatian Dictionary (Hrvatski Rječnik)</em:name>
     <em:unpack>true</em:unpack>
-    <em:description>Croatian Dictionary (Hrvatski Rjecnik) for Mozilla Firefox, Thunderbird and SeaMonkey.</em:description>
-    <em:creator>Antun Koncic</em:creator>
-    <em:contributor>Denis Lackovic</em:contributor>
+    <em:description>Croatian Dictionary (Hrvatski Rječnik) for Mozilla Firefox, Thunderbird and SeaMonkey.</em:description>
+    <em:creator>Antun Končić</em:creator>
+    <em:contributor>Denis Lacković</em:contributor>
     <em:contributor>Krunoslav Šebetić</em:contributor>
     <em:homepageURL>https://github.com/akoncic/mozillacroatiandictionary</em:homepageURL>
 
@@ -44,7 +44,7 @@
       <Description>
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
         <em:minVersion>1.0</em:minVersion>
-        <em:maxVersion>56.0</em:maxVersion>
+        <em:maxVersion>63.0</em:maxVersion>
       </Description>
     </em:targetApplication>
 
