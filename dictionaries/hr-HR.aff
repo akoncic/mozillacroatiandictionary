@@ -76,7 +76,7 @@ ICONV ŕ r
 
 
 # REP - .
-REP 219
+REP 228
 REP ^pocrtava podcrtava
 REP ^zdrastv zdravstv
 REP nućemo$ nut_ćemo
@@ -117,8 +117,10 @@ REP nuću$ nut_ću
 REP nion nionic
 REP nuće$ nut_će
 REP ^aders adres
+REP prijek prek
 REP vežen vezen
 REP ećeš$ et_ćeš
+REP ljanj ljenj
 REP ^pretč predč
 REP tarn ćarnic
 REP šćeš$ st_ćeš
@@ -145,6 +147,7 @@ REP bljiv biv
 REP ljiv ljav
 REP najs naes
 REP sup sump
+REP kus$ k
 REP ion ijun
 REP zir rizir
 REP aon aonic
@@ -178,6 +181,8 @@ REP rni rnu
 REP rh rth
 REP ljnj nj
 REP mnj mlj
+REP mc mpc
+REP ^ra raz
 REP ^bim$ bih
 REP ^čiž čiz
 REP ini inu
@@ -187,17 +192,20 @@ REP dni$ tni
 REP on onic
 REP mlj mnj
 REP skuj šć
+REP st dst
 REP xy ksi
 REP je ije
 REP ^biš$ bi
 REP and ad
 REP ^sa su
 REP ije je
+REP sik	sink
 REP om -om
 REP ći vši
 REP sn stn
 REP ša ška
 REP sm stm
+REP mt mpt
 REP sk stk
 REP rp rpt
 REP st tst
@@ -261,6 +269,7 @@ REP c k
 REP g h
 REP ć č
 REP č ć
+REP tr tor
 REP ^a A
 REP ^b B
 REP ^c C
@@ -3905,3 +3914,4 @@ SFX SL ti ti strti
 SFX SL ti veni strti
 SFX SL ti te strti
 SFX SL ti vene strti
+
