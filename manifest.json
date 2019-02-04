@@ -1,0 +1,9 @@
+{
+  "dictionaries": { "hr-HR": "dictionaries/hr-HR.dic" },
+  "version": "1.5webext",
+  "browser_specific_settings": {
+    "gecko": { "id": "hr-HR-2@dictionaries.addons.mozilla.org" }
+  },
+  "name": "Croatian Dictionary (Hrvatski Rječnik)",
+  "manifest_version": 2
+}
